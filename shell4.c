@@ -1,4 +1,4 @@
-// name : Isabelle Champion ID: 260970545
+// name : Isabelle Champion 
 // Assumptions:
 // - fg with no argument returns the 0th Job
 // when doing redirects command > file, when creating a new file (if doesn't exist), give it write permissions
